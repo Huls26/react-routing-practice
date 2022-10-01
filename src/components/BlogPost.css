@@ -1,0 +1,15 @@
+.post-container {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: .9em;
+    color: antiquewhite;
+    text-transform: capitalize;
+
+    padding: 1.3em 2.3em;
+
+    margin-bottom: 1em;
+    margin-inline: auto;
+    max-width: 450px;
+
+    background-color: rgba(103, 101, 101, 0.381);
+    cursor: pointer;
+}

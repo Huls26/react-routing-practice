@@ -1,0 +1,19 @@
+#error-page {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 50vh;
+}
+
+#error-page > * {
+    margin-bottom: 1em;
+}
+
+.error-status {
+    color: gainsboro;
+}
